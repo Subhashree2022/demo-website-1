@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%); 
+    text-align: center;
+}
+.myname{
+    font-size: 90px;
+    
+}
+.yourname{
+    text-decoration: underline;
+}
